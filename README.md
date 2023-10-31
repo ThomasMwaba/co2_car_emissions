@@ -4,3 +4,4 @@ CO2 emissions from vehicles are a significant contributor to environmental pollu
 1. Environmental Awareness: Helping consumers make more environmentally responsible choices when purchasing vehicles.
 2. Policy Development: Supporting governments in implementing eco-friendly regulations and incentives.
 3. Automobile Design: Assisting car manufacturers in optimizing vehicle designs for reduced emissions.
+Note: file is in ipynb format
