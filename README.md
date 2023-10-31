@@ -1,7 +1,2 @@
-This project is aimed at developing a machine learning model to predict CO2 emissions from vehicles.
-CO2 emissions from vehicles are a significant contributor to environmental pollution and climate change. By building a predictive model, the aim is to provide a tool that can estimate the CO2 emissions of a vehicle based on its characteristics. This can assist in:
-
-1. Environmental Awareness: Helping consumers make more environmentally responsible choices when purchasing vehicles.
-2. Policy Development: Supporting governments in implementing eco-friendly regulations and incentives.
-3. Automobile Design: Assisting car manufacturers in optimizing vehicle designs for reduced emissions.
-Note: file is in ipynb format
+This project is aimed at developing a machine learning model to predict CO2 emissions by first employing Pandas  for efficient data cleaning, transformation, and structuring, ensuring data integrity and consistency throughout the analysis. Seaborn played a pivotal role in creating informative and visually engaging plots, facilitating the exploration of relationships within the dataset. Finally, the scikit-learn library was used to develop a predictive model for estimating CO2 emissions based on factors such as fuel consumption and engine size.
+Note: The file is in IPYNB format.
