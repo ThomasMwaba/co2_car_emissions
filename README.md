@@ -5,6 +5,6 @@ The following **Python** libraries are used in the project:
 
 2. **Seaborn** and **Matplotlib** were used to create graphs  that helped with understanding the data better.
 
-·**Scikit-learn** was used to make a model that can predict CO2 emissions based on things like how much fuel a vehicle uses and the size of its engine.
+3· **Scikit-learn** was used to make a model that can predict CO2 emissions based on things like how much fuel a vehicle uses and the size of its engine.
 
 **Note**: The file is in IPYNB format.
